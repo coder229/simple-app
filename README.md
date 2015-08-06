@@ -1,3 +1,3 @@
 # simple-app
 
-This is a test project I'm using for learning more about CI.
+This is a test project I'm using for learning more about Jenkins CI.
